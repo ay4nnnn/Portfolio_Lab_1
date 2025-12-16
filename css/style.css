@@ -131,6 +131,7 @@ nav ul a {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	margin-bottom: 5rem;
 }
 
 .ypp img {
@@ -144,4 +145,12 @@ nav ul a {
 	width: 100%;
 	justify-content: center;
 	gap: 5rem;
+}
+
+#contact {
+	color: white;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-bottom: 5rem;
 }
